@@ -11,7 +11,7 @@ Most of my current repositories are just basic Linux codes that I've created for
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xkavishka&show_icons=true&theme=tokyonight" alt="Kavishka Dahanayaka's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=xkavishka&show_icons=true&theme=tokyonight" alt="Current GitHub Stats">
 </p>
 
 ### 🌟 Streak Stats
