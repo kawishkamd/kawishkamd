@@ -1,5 +1,5 @@
 ## 👋
-<p align="center"><a href="https://www.google.com"><img src="https://img.shields.io/badge/-Kavishka Dahanayaka-brightgreen"></a>
+<p align="center"><a href="#"><img src="https://img.shields.io/badge/-Kavishka Dahanayaka-brightgreen"></a>
 </p>
 
 
