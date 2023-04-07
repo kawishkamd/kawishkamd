@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hello there, I'm Kavishka Dahanayaka!
 
-<!--
-**xkavishka/xkavishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress Developer and a student who is passionate about creating clean and modern websites that are optimized for performance and user experience. 
 
-Here are some ideas to get you started:
+## 🧠 My Current Repos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my current repositories are just basic Linux codes that I've created for my own personal use. However, if you find them useful, feel free to use them too!
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xkavishka&show_icons=true&theme=tokyonight" alt="Kavishka Dahanayaka's GitHub Stats">
+</p>
+
+## 🌟 Streak Stats and Top Languages
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=xkavishka" alt="GitHub Streak Stats" width="350px" height="auto">
+</p>
+
+## 📱 Connect with Me
+
+Feel free to connect with me on [Twitter](https://twitter.com/xkavishka),[Facebook](https://facebook.com/kavishka.nft).I'd love to hear from you!
