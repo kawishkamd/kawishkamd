@@ -12,11 +12,12 @@ Most of my current repositories are just basic Linux codes that I've created for
   <img src="https://github-readme-stats.vercel.app/api?username=xkavishka&show_icons=true&theme=tokyonight" alt="Kavishka Dahanayaka's GitHub Stats">
 </p>
 
-## 🌟 Streak Stats and Top Languages
+## 🌟 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=xkavishka" alt="GitHub Streak Stats" width="350px" height="auto">
 </p>
+
 
 ## 📱 Connect with Me
 
