@@ -1,9 +1,3 @@
-## 👋
-<p align="center"><a href="#"><img src="https://img.shields.io/badge/-Kavishka Dahanayaka-brightgreen"></a>
-</p>
-
-
-
 ### 🧠 My Current Repos
 
 Most of my current repositories are just basic Linux codes that I've created for my own personal use. However, if you find them useful, feel free to use them too!
