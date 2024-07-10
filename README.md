@@ -33,16 +33,17 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 <!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 
 
-<table>
+<table style="border-collapse: collapse; table-layout: fixed; width: 100%;">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+    <td align="center" style="padding: 0; margin: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="display: block;" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkavishka&theme=dark&hide_border=false" />
+    <td align="center" style="padding: 0; margin: 0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkavishka&theme=dark&hide_border=false" style="display: block;" />
     </td>
   </tr>
 </table>
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> -->
 
