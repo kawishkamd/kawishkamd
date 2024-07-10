@@ -7,6 +7,8 @@ src="https://img.shields.io/twitch/status/Kavishk4?logo=twitchsx&style=for-the-b
 
 <!-- <a href="https://www.youtube.com/@kavishk4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ" /></a> -->
+
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -25,20 +27,17 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 <!--![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)-->
 <!--![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)--> 
 <!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+
+> ![](https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itzkavishka&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=itzkavishka&icon=0&color=0)](https://github.com/itzkavishka)
----
----
-## 💰 Support Me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kavishka) 
+
+
+>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kavishka)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kavishka) 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kavishka)
----
 
 
