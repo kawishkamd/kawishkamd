@@ -29,12 +29,24 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 <!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 
 
-> ![](https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=itzkavishka&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-> 
-[![](https://visitcount.itsvg.in/api?id=itzkavishka&icon=0&color=0)](https://github.com/itzkavishka)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkavishka&theme=dark&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> -->
+
+<p align="center">
+  <a href="https://github.com/itzkavishka">
+    <img src="https://visitcount.itsvg.in/api?id=itzkavishka&icon=0&color=0" />
+  </a>
+</p>
 
 >
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kavishka)
