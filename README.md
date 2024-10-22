@@ -48,7 +48,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> -->
 
 <p align="center">
-  <a href="https://github.com/itzkavishka">
+  <a href="https://github.com/kavishkafx">
     <img src="https://visitcount.itsvg.in/api?id=itzkavishka&icon=0&color=0" />
   </a>
 </p>
@@ -59,11 +59,11 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kavishka)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kavishka)
 
-> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itzkavishka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itzkavishka)
+> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavishkafx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishkafx)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kavishk4)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itzkavishka)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kavishk4)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itskavishka)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kavishk4)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kavishkafx)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kavishkafx)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/xkavishka)
