@@ -36,10 +36,10 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 <table style="border-collapse: collapse; table-layout: fixed; width: 100%;">
   <tr>
     <td align="center" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=itzkavishka&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="display: block;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kavishkafx&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="display: block;" />
     </td>
     <td align="center" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzkavishka&theme=dark&hide_border=false" style="display: block;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkafx&theme=dark&hide_border=false" style="display: block;" />
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 
 <p align="center">
   <a href="https://github.com/kavishkafx">
-    <img src="https://visitcount.itsvg.in/api?id=itzkavishka&icon=0&color=0" />
+    <img src="https://visitcount.itsvg.in/api?id=kavishkafx&icon=0&color=0" />
   </a>
 </p>
 
@@ -62,8 +62,8 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 > [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavishkafx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishkafx)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kavishk4)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@itzkavishka)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kavishk4)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kavishkafx)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kavishkafx)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kavishkafx)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kavishkafx)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/xkavishka)
