@@ -1,7 +1,7 @@
 > <h3 align="left">Most of my current repositories consist of basic Linux codes that I've created for my own personal use. However, if you find them useful, feel free to use them!</h3>
 
 
-<a href="https://www.twitch.tv/kavishk4" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitch.tv/kawishkamd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Kavishk4?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 
@@ -36,10 +36,10 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 <table style="border-collapse: collapse; table-layout: fixed; width: 100%;">
   <tr>
     <td align="center" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kavishkafx&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="display: block;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kawishkamd&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="display: block;" />
     </td>
     <td align="center" style="padding: 0; margin: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishkafx&theme=dark&hide_border=false" style="display: block;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawishkamd&theme=dark&hide_border=false" style="display: block;" />
     </td>
   </tr>
 </table>
@@ -53,11 +53,11 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kavishka)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kavishka)
 
-> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavishkafx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavishkafx)
+> [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kawishkamd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kawishkamd)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kavishk4)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kavishkafx)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kavishkafx)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kavishkafx)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kavishkafx)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kawishkamd)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kawishkamd)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kawishkamd)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kawishkamd)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/xkavishka)
