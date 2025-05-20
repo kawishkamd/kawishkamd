@@ -64,6 +64,7 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Bypassing ISP Data Packages with V2Ray](https://fuwari.vercel.app/posts/v2ray-guide/v2ray-guide/)
-- [Powershell-Guide](https://fuwari.vercel.app/posts/powershell-guide/powershell-guide/)
+- [Epic Games Giving Away Dead Island 2](https://kawishkamd.vercel.app/posts/epic-games/epic-games/)
+- [Bypassing ISP Data Packages with V2Ray](https://kawishkamd.vercel.app/posts/v2ray-guide/v2ray-guide/)
+- [Powershell-Guide](https://kawishkamd.vercel.app/posts/powershell-guide/powershell-guide/)
 <!-- BLOG-POST-LIST:END -->
