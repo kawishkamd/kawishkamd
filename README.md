@@ -64,4 +64,6 @@ src="https://img.shields.io/youtube/channel/subscribers/UCyjWuGGkGAe8hxsTPWw9TrQ
 
 # Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bypassing ISP Data Packages with V2Ray](https://fuwari.vercel.app/posts/v2ray-guide/v2ray-guide/)
+- [Powershell-Guide](https://fuwari.vercel.app/posts/powershell-guide/powershell-guide/)
 <!-- BLOG-POST-LIST:END -->
