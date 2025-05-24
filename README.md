@@ -32,7 +32,7 @@
 - [⚡ PowerShell Guide for Beginners](https://kawishkamd.vercel.app/posts/powershell-guide/powershell-guide/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [**Read more posts on my blog**](https://kawishkamd.vercel.app)
+➡️ [**Read more..**](https://kawishkamd.vercel.app)
 
 ---
 
