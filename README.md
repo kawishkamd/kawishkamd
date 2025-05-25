@@ -27,9 +27,9 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Epic Games Giving Away Dead Island 2](https://kawishkamd.vercel.app/posts/epic-games/epic-games/)
-- [🔒 Bypassing ISP Data Packages with V2Ray](https://kawishkamd.vercel.app/posts/v2ray-guide/v2ray-guide/)
-- [⚡ PowerShell Guide for Beginners](https://kawishkamd.vercel.app/posts/powershell-guide/powershell-guide/)
+- [Epic Games Giving Away Dead Island 2](https://kawishkamd.vercel.app/posts/epic-games/epic-games/)
+- [Bypassing ISP Data Packages with V2Ray](https://kawishkamd.vercel.app/posts/v2ray-guide/v2ray-guide/)
+- [Powershell-Guide](https://kawishkamd.vercel.app/posts/powershell-guide/powershell-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Read more..**](https://kawishkamd.vercel.app)
