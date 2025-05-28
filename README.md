@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Self-Taught-Programmar++WordPress+Dev;Freelance+Video+Editor)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Self-Taught-Programmar+WordPress+Dev;Freelance+Video+Editor)
 
 </div>
 
