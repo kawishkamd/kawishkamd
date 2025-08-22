@@ -27,10 +27,10 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Notified When Epic Drops Free Games](https://kawishkamd.vercel.app/posts/tests/epic-games-alert/epic-games-alert/)
-- [Epic Games Giving Away Dead Island 2](https://kawishkamd.vercel.app/posts/epic-games/epic-games/)
-- [Bypassing ISP Data Packages with V2Ray](https://kawishkamd.vercel.app/posts/v2ray-guide/v2ray-guide/)
-- [Powershell-Guide](https://kawishkamd.vercel.app/posts/powershell-guide/powershell-guide/)
+- [Notified When Epic Drops Free Games](https://blog.initrc.xyz/posts/tests/epic-games-alert/epic-games-alert/)
+- [Epic Games Giving Away Dead Island 2](https://blog.initrc.xyz/posts/epic-games/epic-games/)
+- [Bypassing ISP Data Packages with V2Ray](https://blog.initrc.xyz/posts/v2ray-guide/v2ray-guide/)
+- [Powershell-Guide](https://blog.initrc.xyz/posts/powershell-guide/powershell-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Read more..**](https://kawishkamd.vercel.app)
