@@ -15,7 +15,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [Read more..](https://kawishkamd.vercel.app)
+<!-- ➡️ [Read more..](https://kawishkamd.vercel.app) -->
 
 ---
 
