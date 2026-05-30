@@ -38,10 +38,3 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kayzrc)
 
 </div>
-
-<div align="center">
-  
-<!-- GitHub Snake Animation (Dark Mode) -->
-<img src="https://raw.githubusercontent.com/kawishkamd/kawishkamd/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation" />
-
-</div>
