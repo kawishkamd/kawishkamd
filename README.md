@@ -1,9 +1,4 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawishkamd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawishkamd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawishkamd&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
 </div>
 
