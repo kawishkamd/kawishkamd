@@ -1,13 +1,33 @@
-<div align="center">
+<div align="left">
+<br>
+
+for freelance work? do reach, [email](mailto:kawishkamd@gmail.com) :)
+
+<table><tr>
+<td bordercolor="transparent";">
 <pre>
-    <img src="https://github.com/kawishkamd/test/blob/main/CP_PS.gif?raw=true" width="150px" align="right" />
-    💼 Back-end Dev • Web Hosting        
+    💼 Back-end Dev • Sysadmin        
     💻 Open Source • Self-hosting        
     📖 Networking • DNS • Infrastructure 
-    🎮 CODM • TV Series • Marvel         
+    🎮 Gaming • TV Series • Anime         
     🐱 Cats • Coffee • Rabbit Holes      
 </pre>
+</td>
+<td>
+<img src="https://github.com/kawishkamd/test/blob/main/CP_PS.gif?raw=true" height="130px" />
+</td>
+</tr></table>
 
-[LinkedIn](https://linkedin.com/in/kawishkamd) • [YouTube](https://www.youtube.com/@kairoirl?sub_confirmation=1) • [TikTok](https://tiktok.com/@kairoirl) • [X](https://x.com/kawishkamd) • [Ko-fi](https://ko-fi.com/kayz)
+📊 **coding breakdown:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawishkamd) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@kairoirl?sub_confirmation=1) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@kairoirl) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kawishkamd)
+
+keep the servers running ⚡
+
+<a href='https://ko-fi.com/K3K3NHHPI' target='_blank'>
+<img src='https://img.shields.io/badge/Ko--fi-F16061?style=flat-square&logo=ko-fi&logoColor=white' height='36' />
+</a>
 
 </div>
