@@ -1,6 +1,4 @@
 <div align="center">
-<br><br><br><br>
-<br><br>
 <pre>
     <img src="https://github.com/kawishkamd/test/blob/main/CP_PS.gif?raw=true" width="150px" align="right" />
     💼 Back-end Dev • Web Hosting        
