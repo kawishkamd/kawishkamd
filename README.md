@@ -12,6 +12,10 @@ for freelance work? do reach, [email](mailto:kawishkamd@gmail.com) :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawishkamd) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@kairoirl?sub_confirmation=1) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@kairoirl) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kawishkamd)
 
+blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 keep the servers running ⚡
 
 <a href='https://ko-fi.com/K3K3NHHPI' target='_blank'>
