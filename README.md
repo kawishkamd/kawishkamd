@@ -17,8 +17,8 @@ blogs
 - [How to Stop CapCut From Auto-Updating&lpar;Lock It to the Last Free Version&rpar;](https://zylonic.space/how-to-stop-capcut-from-updating/)
 - [Inspiron 3030 CPU Power-State Instability](https://zylonic.space/inspiron-3030-cpu-instability/)
 - [Critical n8n Vulnerability &lpar;CVSS 9.9&rpar; Threatens Over 100,000 Workflow Automation Instances](https://zylonic.space/n8n-critical-vulnerability-2025/)
-- [Contact](https://zylonic.space/contact/)
 - [My Journey Through Lightweight Arch-Based Linux Distributions](https://zylonic.space/10-lightweight-arch-based-linux-distros/)
+- [Your &#39;Privacy&#39; Extention Is Spying on Your AI Chats](https://zylonic.space/Your-Privacy-Extention-Is-Spying-On-Your-AI-Chats/)
 <!-- BLOG-POST-LIST:END -->
 
 keep the servers running ⚡
