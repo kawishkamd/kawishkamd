@@ -14,11 +14,11 @@ for freelance work? do reach, [email](mailto:kawishkamd@gmail.com) :)
 
 blogs
 <!-- BLOG-POST-LIST:START -->
+- [Htb Connected Walkthrough](https://zylonic.space/htb-connected-walkthrough/)
 - [Htb Devhub Walkthrough](https://zylonic.space/htb-devhub-walkthrough/)
 - [How to Stop CapCut From Auto-Updating&lpar;Lock It to the Last Free Version&rpar;](https://zylonic.space/how-to-stop-capcut-from-updating/)
 - [Inspiron 3030 CPU Power-State Instability](https://zylonic.space/inspiron-3030-cpu-instability/)
 - [Critical n8n Vulnerability &lpar;CVSS 9.9&rpar; Threatens Over 100,000 Workflow Automation Instances](https://zylonic.space/n8n-critical-vulnerability-2025/)
-- [My Journey Through Lightweight Arch-Based Linux Distributions](https://zylonic.space/10-lightweight-arch-based-linux-distros/)
 <!-- BLOG-POST-LIST:END -->
 
 keep the servers running ⚡
